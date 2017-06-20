@@ -45,6 +45,7 @@ td
 
 footer
 {
+   border: 1px solid red;
   font-family: 'Spectral', sans-serif;
   font-size: 15px;
   text-align: center; 
