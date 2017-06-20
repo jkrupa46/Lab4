@@ -7,7 +7,7 @@ body
   min-height:100%;
   background-image: url("images/background.jpg");
   background-size: cover;
-  color: red;
+  color: white;
 }
 
 table 
@@ -15,7 +15,7 @@ table
   table-layout: fixed;
   width: 75%;
   border-collapse: collapse;
-  border: .18em solid green;
+  border: .18em solid red;
   margin: 0 auto;
   overflow: hidden;
 }
@@ -28,7 +28,7 @@ th
   font-size: 18px;
   height: 60px;
   background-color: #00008B; 
-  color: green;
+  color: red;
   padding: 10px
 }
 
@@ -39,7 +39,7 @@ td
   font-size: 15px;
   text-align: center; 
   background-color: #1a1aff;
-  color: white;
+  color: red;
   padding: 10px;
 }
 
