@@ -1,6 +1,6 @@
 body
 {
-  font-family: 'Spectral', sans-serif;	
+  font-family: Spectral;	
   text-align: center;
   font-size: 150%;
   font-weight:bold;
@@ -24,7 +24,7 @@ th
 {	
   border: 2px solid red;
   text-align: center;
-  font-family: 'Spectral', sans-serif;
+  font-family: Spectral;
   font-size: 18px;
   height: 60px;
   background-color: #00008B; 
@@ -35,7 +35,7 @@ th
 td
 {
   border: 1px solid red;
-  font-family: 'Spectral', sans-serif;
+  font-family: Spectral;
   font-size: 15px;
   text-align: center; 
   background-color: #1a1aff;
@@ -45,7 +45,7 @@ td
 
 footer
 {
-  font-family: 'Spectral', sans-serif;
+  font-family: Spectral;
   font-size: 15px;
   text-align: center; 
   color: white;
