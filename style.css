@@ -1,12 +1,13 @@
-body{
-	font-family: 'Spectral', sans-serif;	
-	text-align: center;
-	font-size: 150%;
-	font-weight:bold;
-	min-height:100%;
-	background-image: url("images/background.jpg");
-	background-size: cover;
-	color: white;
+body
+{
+  font-family: 'Spectral', sans-serif;	
+  text-align: center;
+  font-size: 150%;
+  font-weight:bold;
+  min-height:100%;
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  color: white;
 }
 
 table 
@@ -21,7 +22,7 @@ table
 
 th 
 {	
-  border: 2px solid white;
+  border: 2px solid red;
   text-align: center;
   font-family: 'Spectral', sans-serif;
   font-size: 18px;
